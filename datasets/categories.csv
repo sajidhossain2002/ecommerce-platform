@@ -1,0 +1,16 @@
+category_id,category_name,description,parent_id,image_url,is_active,created_at
+1,Electronics,Electronic devices and accessories,,https://example.com/img/electronics.jpg,TRUE,2024-01-15 10:00:00
+2,Computers & Laptops,Desktop computers and laptops,1,https://example.com/img/computers.jpg,TRUE,2024-01-15 10:05:00
+3,Smartphones & Tablets,Mobile devices and tablets,1,https://example.com/img/smartphones.jpg,TRUE,2024-01-15 10:10:00
+4,Audio & Headphones,Headphones and audio equipment,1,https://example.com/img/audio.jpg,TRUE,2024-01-15 10:15:00
+5,Fashion & Apparel,Clothing and accessories,,https://example.com/img/fashion.jpg,TRUE,2024-01-15 10:20:00
+6,Men's Clothing,Men's fashion items,5,https://example.com/img/mens.jpg,TRUE,2024-01-15 10:25:00
+7,Women's Clothing,Women's fashion items,5,https://example.com/img/womens.jpg,TRUE,2024-01-15 10:30:00
+8,Accessories,Fashion accessories,5,https://example.com/img/accessories.jpg,TRUE,2024-01-15 10:35:00
+9,Home & Garden,Home improvement and garden supplies,,https://example.com/img/home.jpg,TRUE,2024-01-15 10:40:00
+10,Furniture,Home and office furniture,9,https://example.com/img/furniture.jpg,TRUE,2024-01-15 10:45:00
+11,Kitchen & Dining,Kitchenware and dining items,9,https://example.com/img/kitchen.jpg,TRUE,2024-01-15 10:50:00
+12,Sports & Outdoors,Sports equipment and outdoor gear,,https://example.com/img/sports.jpg,TRUE,2024-01-15 10:55:00
+13,Books & Media,Books and entertainment media,,https://example.com/img/books.jpg,TRUE,2024-01-15 11:00:00
+14,Health & Beauty,Health and beauty products,,https://example.com/img/health.jpg,TRUE,2024-01-15 11:05:00
+15,Gaming,Video games and gaming accessories,1,https://example.com/img/gaming.jpg,TRUE,2024-01-15 11:10:00

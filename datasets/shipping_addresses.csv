@@ -1,0 +1,26 @@
+address_id,customer_id,address_type,recipient_name,street_address,city,state,postal_code,country,phone,is_default,created_at
+1,1,Home,Sarah Johnson,123 Harvard Street,Cambridge,MA,02138,USA,+1-617-555-0101,TRUE,2023-03-15 09:00:00
+2,2,Home,Michael Chen,456 Commonwealth Ave,Boston,MA,02215,USA,+1-857-555-0102,TRUE,2023-05-20 14:30:00
+3,3,Home,Emily Rodriguez,789 Beacon Street,Boston,MA,02215,USA,+1-617-555-0103,TRUE,2023-01-10 10:15:00
+4,4,Home,David Thompson,321 Newbury Street,Boston,MA,02116,USA,+1-781-555-0104,TRUE,2023-07-12 16:45:00
+5,5,Home,Jessica Martinez,654 Boylston Street,Boston,MA,02116,USA,+1-617-555-0105,TRUE,2023-09-05 11:00:00
+6,6,Home,James Wilson,987 Memorial Drive,Cambridge,MA,02139,USA,+1-857-555-0106,TRUE,2023-02-28 13:20:00
+7,7,Home,Amanda Taylor,147 Mass Ave,Cambridge,MA,02139,USA,+1-617-555-0107,TRUE,2023-06-18 09:30:00
+8,8,Home,Robert Anderson,258 Huntington Ave,Boston,MA,02115,USA,+1-781-555-0108,TRUE,2023-08-22 15:10:00
+9,9,Home,Maria Garcia,369 Tremont Street,Boston,MA,02116,USA,+1-617-555-0109,TRUE,2023-04-07 12:00:00
+10,10,Home,Christopher Lee,741 Washington Street,Boston,MA,02111,USA,+1-857-555-0110,TRUE,2023-05-14 10:45:00
+11,11,Home,Jennifer White,852 Cambridge Street,Cambridge,MA,02141,USA,+1-617-555-0111,TRUE,2023-02-05 14:30:00
+12,12,Home,Daniel Harris,963 Brighton Ave,Allston,MA,02134,USA,+1-781-555-0112,TRUE,2023-07-30 11:20:00
+13,13,Home,Ashley Clark,159 Park Drive,Boston,MA,02215,USA,+1-617-555-0113,TRUE,2023-03-22 16:00:00
+14,14,Home,Matthew Lewis,357 Longwood Ave,Boston,MA,02115,USA,+1-857-555-0114,TRUE,2023-09-18 13:45:00
+15,15,Home,Nicole Walker,486 Summer Street,Boston,MA,02210,USA,+1-617-555-0115,TRUE,2023-04-25 09:15:00
+16,16,Home,Ryan Hall,753 Atlantic Ave,Boston,MA,02110,USA,+1-781-555-0116,TRUE,2023-06-08 10:30:00
+17,17,Home,Lauren Young,864 Charles Street,Boston,MA,02114,USA,+1-617-555-0117,TRUE,2023-01-28 12:00:00
+18,18,Home,Kevin King,975 Brookline Ave,Brookline,MA,02215,USA,+1-857-555-0118,TRUE,2023-08-05 14:20:00
+19,19,Home,Stephanie Wright,246 Main Street,Cambridge,MA,02142,USA,+1-617-555-0119,TRUE,2023-10-12 15:45:00
+20,20,Home,Brandon Lopez,135 State Street,Boston,MA,02109,USA,+1-781-555-0120,TRUE,2023-03-08 11:30:00
+21,1,Work,Sarah Johnson,MIT Building 32,Cambridge,MA,02139,USA,+1-617-555-0199,FALSE,2023-04-20 10:00:00
+22,3,Work,Emily Rodriguez,Harvard Business School,Boston,MA,02163,USA,+1-617-555-0198,FALSE,2023-02-15 14:30:00
+23,6,Work,James Wilson,Boston University,Boston,MA,02215,USA,+1-857-555-0197,FALSE,2023-03-10 11:45:00
+24,11,Work,Jennifer White,Northeastern University,Boston,MA,02115,USA,+1-617-555-0196,FALSE,2023-03-01 09:20:00
+25,17,Work,Lauren Young,Tufts University,Medford,MA,02155,USA,+1-617-555-0195,FALSE,2023-02-10 13:00:00

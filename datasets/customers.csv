@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,password_hash,date_of_birth,account_status,loyalty_points,total_spent,registration_date,last_login,created_at
+1,Sarah,Johnson,sarah.johnson@gmail.com,+1-617-555-0101,$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/,1990-05-15,Active,2450,3567.89,2023-03-15,2024-10-08 15:30:00,2023-03-15 09:00:00
+2,Michael,Chen,michael.chen@outlook.com,+1-857-555-0102,$2b$12$KNv4d2zrCXWIylf1MIBlDPZa7UuuyNKrsI9/,1985-08-22,Active,1890,2134.50,2023-05-20,2024-10-07 11:20:00,2023-05-20 14:30:00
+3,Emily,Rodriguez,emily.rodriguez@yahoo.com,+1-617-555-0103,$2b$12$MQx5e3AsrDYXJzmg2NJCmEPbZ8VvvzOLstJ0/,1995-11-30,Active,3100,4523.75,2023-01-10,2024-10-09 08:45:00,2023-01-10 10:15:00
+4,David,Thompson,david.thompson@gmail.com,+1-781-555-0104,$2b$12$NRy6f4BtsEZYKzAnh3OKDnFQcZ9WwwAzPMtuK1/,1988-03-07,Active,1250,1876.20,2023-07-12,2024-10-06 19:30:00,2023-07-12 16:45:00
+5,Jessica,Martinez,jessica.martinez@hotmail.com,+1-617-555-0105,$2b$12$OSz7g5CutFAZLzBoi4PLEoGRdAaXxxBaPNuvL2/,1992-09-18,Active,890,1245.60,2023-09-05,2024-10-08 12:15:00,2023-09-05 11:00:00
+6,James,Wilson,james.wilson@gmail.com,+1-857-555-0106,$2b$12$PTa8h6DvuGBaMAcpj5QMFpHSeBbYyyCbQOvwM3/,1987-12-25,Active,2670,3789.90,2023-02-28,2024-10-09 07:30:00,2023-02-28 13:20:00
+7,Amanda,Taylor,amanda.taylor@yahoo.com,+1-617-555-0107,$2b$12$QUb9i7EwvHCbNBdqk6RNGqITfCcZzzDcRPwxN4/,1993-06-14,Active,1540,2234.30,2023-06-18,2024-10-05 16:45:00,2023-06-18 09:30:00
+8,Robert,Anderson,robert.anderson@outlook.com,+1-781-555-0108,$2b$12$RVc0j8FxwIDcOCerL7SOHrJUgDdAaaEdSQxyO5/,1991-01-09,Active,780,987.50,2023-08-22,2024-10-07 14:20:00,2023-08-22 15:10:00
+9,Maria,Garcia,maria.garcia@gmail.com,+1-617-555-0109,$2b$12$SWd1k9GyxJEdPDfsM8TPIsKVhEeBbbFeTPyzP6/,1989-04-21,Inactive,450,678.40,2023-04-07,2024-08-15 10:30:00,2023-04-07 12:00:00
+10,Christopher,Lee,christopher.lee@gmail.com,+1-857-555-0110,$2b$12$TXe2l0HzyKFeQEgtN9UQJtLWiFfCccGfUQzaQ7/,1994-10-03,Active,1920,2567.80,2023-05-14,2024-10-08 18:00:00,2023-05-14 10:45:00
+11,Jennifer,White,jennifer.white@yahoo.com,+1-617-555-0111,$2b$12$UYf3m1IazLGfRFhuO0VRKuMXjGgDddHgVRabR8/,1986-07-28,Active,3340,4876.20,2023-02-05,2024-10-09 09:15:00,2023-02-05 14:30:00
+12,Daniel,Harris,daniel.harris@hotmail.com,+1-781-555-0112,$2b$12$VZg4n2JbaMLgSGivP1WSLvNYkHhEeeIhWSbcS9/,1990-02-16,Active,1100,1534.70,2023-07-30,2024-10-06 13:45:00,2023-07-30 11:20:00
+13,Ashley,Clark,ashley.clark@gmail.com,+1-617-555-0113,$2b$12$Wah5o3KcbNMhTHjwQ2XTMwOZlIiEffJiXTcdT0/,1996-12-05,Active,2180,3012.90,2023-03-22,2024-10-08 20:30:00,2023-03-22 16:00:00
+14,Matthew,Lewis,matthew.lewis@outlook.com,+1-857-555-0114,$2b$12$Xbi6p4LdcOMiUIkxR3YUNxPamJjFggKjYUdeU1/,1988-08-11,Active,950,1289.50,2023-09-18,2024-10-07 08:20:00,2023-09-18 13:45:00
+15,Nicole,Walker,nicole.walker@gmail.com,+1-617-555-0115,$2b$12$Ycj7q5MedPNjVJlyS4ZVOyQbnKkGhhLkZVefV2/,1991-05-27,Active,1670,2345.60,2023-04-25,2024-10-09 10:00:00,2023-04-25 09:15:00
+16,Ryan,Hall,ryan.hall@yahoo.com,+1-781-555-0116,$2b$12$Zdk8r6NfePOkWKmzT5aWPzRcoLlHiiMlaWfgW3/,1987-11-19,Suspended,0,0.00,2023-06-08,2024-09-20 15:00:00,2023-06-08 10:30:00
+17,Lauren,Young,lauren.young@gmail.com,+1-617-555-0117,$2b$12$Ael9s7OgfQPlXLnAU6bXQaSdpMmIjjNmbXghX4/,1995-03-02,Active,2890,3998.40,2023-01-28,2024-10-08 17:45:00,2023-01-28 12:00:00
+18,Kevin,King,kevin.king@hotmail.com,+1-857-555-0118,$2b$12$Bfm0t8PhgRQmYMoBV7cYRbTequNnJkkOncYhiY5/,1989-09-23,Active,1430,2087.30,2023-08-05,2024-10-06 11:30:00,2023-08-05 14:20:00
+19,Stephanie,Wright,stephanie.wright@gmail.com,+1-617-555-0119,$2b$12$Cgn1u9QihSRnZNpCW8dZScUfvOoOllPodZijZ6/,1993-01-14,Active,760,1045.80,2023-10-12,2024-10-09 13:20:00,2023-10-12 15:45:00
+20,Brandon,Lopez,brandon.lopez@outlook.com,+1-781-555-0120,$2b$12$Dho2v0RjiTSoaOqDX9eaTdVgwPpPmmQpeakja7/,1992-06-08,Active,2340,3234.50,2023-03-08,2024-10-07 09:50:00,2023-03-08 11:30:00

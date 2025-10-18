@@ -1,0 +1,45 @@
+image_id,product_id,image_url,alt_text,is_primary,display_order,created_at
+1,1,https://example.com/products/macbook-pro-16-main.jpg,MacBook Pro 16-inch M3 - Front View,TRUE,1,2024-02-01 09:00:00
+2,1,https://example.com/products/macbook-pro-16-side.jpg,MacBook Pro 16-inch M3 - Side View,FALSE,2,2024-02-01 09:00:00
+3,1,https://example.com/products/macbook-pro-16-keyboard.jpg,MacBook Pro 16-inch M3 - Keyboard Detail,FALSE,3,2024-02-01 09:00:00
+4,2,https://example.com/products/dell-xps15-main.jpg,Dell XPS 15 9530 - Main Image,TRUE,1,2024-02-05 10:30:00
+5,2,https://example.com/products/dell-xps15-display.jpg,Dell XPS 15 9530 - Display,FALSE,2,2024-02-05 10:30:00
+6,3,https://example.com/products/iphone15pro-titanium.jpg,iPhone 15 Pro Max - Titanium Finish,TRUE,1,2024-03-10 11:00:00
+7,3,https://example.com/products/iphone15pro-camera.jpg,iPhone 15 Pro Max - Camera System,FALSE,2,2024-03-10 11:00:00
+8,3,https://example.com/products/iphone15pro-back.jpg,iPhone 15 Pro Max - Back View,FALSE,3,2024-03-10 11:00:00
+9,4,https://example.com/products/galaxy-s24-ultra-main.jpg,Samsung Galaxy S24 Ultra - Main,TRUE,1,2024-03-15 14:20:00
+10,4,https://example.com/products/galaxy-s24-ultra-spen.jpg,Samsung Galaxy S24 Ultra with S Pen,FALSE,2,2024-03-15 14:20:00
+11,5,https://example.com/products/sony-wh1000xm5-black.jpg,Sony WH-1000XM5 Black Headphones,TRUE,1,2024-01-20 09:45:00
+12,5,https://example.com/products/sony-wh1000xm5-side.jpg,Sony WH-1000XM5 Side View,FALSE,2,2024-01-20 09:45:00
+13,6,https://example.com/products/airpods-pro-2-case.jpg,AirPods Pro 2nd Gen with Case,TRUE,1,2024-01-25 10:15:00
+14,6,https://example.com/products/airpods-pro-2-ear.jpg,AirPods Pro 2nd Gen - Earbuds,FALSE,2,2024-01-25 10:15:00
+15,7,https://example.com/products/levis-501-blue-front.jpg,Levi's 501 Original Blue Jeans Front,TRUE,1,2024-02-10 13:00:00
+16,7,https://example.com/products/levis-501-blue-back.jpg,Levi's 501 Original Blue Jeans Back,FALSE,2,2024-02-10 13:00:00
+17,8,https://example.com/products/nike-airmax90-white.jpg,Nike Air Max 90 White,TRUE,1,2024-02-15 15:30:00
+18,8,https://example.com/products/nike-airmax90-side.jpg,Nike Air Max 90 Side Profile,FALSE,2,2024-02-15 15:30:00
+19,9,https://example.com/products/zara-dress-floral.jpg,Zara Floral Summer Dress,TRUE,1,2024-03-05 11:45:00
+20,10,https://example.com/products/adidas-ultraboost-22.jpg,Adidas Ultraboost 22 Women's Black,TRUE,1,2024-03-20 10:00:00
+21,11,https://example.com/products/rayban-aviator-gold.jpg,Ray-Ban Aviator Gold Frame,TRUE,1,2024-02-20 14:15:00
+22,12,https://example.com/products/mk-handbag-brown.jpg,Michael Kors Leather Handbag Brown,TRUE,1,2024-02-25 16:00:00
+23,13,https://example.com/products/ikea-poang-birch.jpg,IKEA POÄNG Armchair Birch,TRUE,1,2024-01-15 09:30:00
+24,14,https://example.com/products/aeron-chair-black.jpg,Herman Miller Aeron Chair Black,TRUE,1,2024-01-18 11:00:00
+25,14,https://example.com/products/aeron-chair-detail.jpg,Herman Miller Aeron Chair Details,FALSE,2,2024-01-18 11:00:00
+26,15,https://example.com/products/cuisinart-processor.jpg,Cuisinart Food Processor,TRUE,1,2024-02-12 10:45:00
+27,16,https://example.com/products/kitchenaid-mixer-red.jpg,KitchenAid Stand Mixer Red,TRUE,1,2024-02-18 13:20:00
+28,16,https://example.com/products/kitchenaid-mixer-action.jpg,KitchenAid Stand Mixer In Use,FALSE,2,2024-02-18 13:20:00
+29,17,https://example.com/products/ps5-console-main.jpg,PlayStation 5 Console,TRUE,1,2024-01-22 15:00:00
+30,17,https://example.com/products/ps5-controller.jpg,PlayStation 5 DualSense Controller,FALSE,2,2024-01-22 15:00:00
+31,18,https://example.com/products/switch-oled-main.jpg,Nintendo Switch OLED,TRUE,1,2024-01-28 14:30:00
+32,19,https://example.com/products/midnight-library-cover.jpg,The Midnight Library Book Cover,TRUE,1,2024-01-10 09:00:00
+33,20,https://example.com/products/atomic-habits-cover.jpg,Atomic Habits Book Cover,TRUE,1,2024-01-12 10:30:00
+34,21,https://example.com/products/fitbit-charge6-black.jpg,Fitbit Charge 6 Black,TRUE,1,2024-03-01 11:15:00
+35,22,https://example.com/products/neutrogena-hydroboost.jpg,Neutrogena Hydro Boost Set,TRUE,1,2024-03-05 13:45:00
+36,23,https://example.com/products/wilson-basketball.jpg,Wilson Evolution Basketball,TRUE,1,2024-02-08 10:00:00
+37,24,https://example.com/products/yeti-tumbler-steel.jpg,Yeti Rambler 30oz Tumbler,TRUE,1,2024-02-14 15:20:00
+38,25,https://example.com/products/canon-r6m2-body.jpg,Canon EOS R6 Mark II Camera Body,TRUE,1,2024-03-22 09:45:00
+39,25,https://example.com/products/canon-r6m2-sensor.jpg,Canon EOS R6 Mark II Sensor,FALSE,2,2024-03-22 09:45:00
+40,26,https://example.com/products/bose-soundlink-blue.jpg,Bose SoundLink Flex Blue,TRUE,1,2024-03-12 14:00:00
+41,27,https://example.com/products/samsung-qled-65.jpg,Samsung 65-inch QLED TV,TRUE,1,2024-01-30 11:30:00
+42,28,https://example.com/products/dyson-v15-main.jpg,Dyson V15 Detect Cordless,TRUE,1,2024-02-22 10:15:00
+43,29,https://example.com/products/ninja-airfryer-8qt.jpg,Ninja Foodi 8-Qt Air Fryer,TRUE,1,2024-02-28 13:00:00
+44,30,https://example.com/products/instant-pot-duo.jpg,Instant Pot Duo 7-in-1,TRUE,1,2024-01-16 09:30:00
